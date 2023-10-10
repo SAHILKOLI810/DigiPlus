@@ -1,0 +1,11 @@
+.bg-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.form {
+  /* position: absolute; */
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px solid black
+}
